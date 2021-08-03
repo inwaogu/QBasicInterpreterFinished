@@ -1,0 +1,36 @@
+Lexeme:LET Token:LET
+Lexeme:X Token:VAR
+Lexeme:= Token:EQUALS
+Lexeme:INTEGER Token:INTEGER Value:2
+Lexeme:LET Token:LET
+Lexeme:Y Token:VAR
+Lexeme:= Token:EQUALS
+Lexeme:EXP Token:EXP
+Lexeme:( Token:LPAR
+Lexeme:- Token:SUB
+Lexeme:( Token:LPAR
+Lexeme:X Token:VAR
+Lexeme:^ Token:CARROT
+Lexeme:INTEGER Token:INTEGER Value:2
+Lexeme:/ Token:DIVIDE
+Lexeme:INTEGER Token:INTEGER Value:2
+Lexeme:) Token:RPAR
+Lexeme:) Token:RPAR
+Lexeme:/ Token:DIVIDE
+Lexeme:SQR Token:SQR
+Lexeme:( Token:LPAR
+Lexeme:23.14159265 Token:FLOAT
+Lexeme:) Token:RPAR
+Lexeme:LET Token:LET
+Lexeme:Y Token:VAR
+Lexeme:= Token:EQUALS
+Lexeme:INT Token:INT
+Lexeme:( Token:LPAR
+Lexeme:INTEGER Token:INTEGER Value:100
+Lexeme:Y Token:VAR
+Lexeme:) Token:RPAR
+Lexeme:PRINT Token:PRINT
+Lexeme:"" Token:STRING Value:"*"
+Lexeme:NEXT Token:NEXT
+Lexeme:X Token:VAR
+Lexeme:END Token:END
